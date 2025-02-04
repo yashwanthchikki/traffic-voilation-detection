@@ -1,0 +1,8 @@
+*.weights
+*.h5
+*.mp4
+*.avi
+__pycache__/
+output/
+final/
+.DS_Store
