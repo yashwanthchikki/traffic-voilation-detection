@@ -10,7 +10,7 @@ ViDetect is an AI-powered vehicle detection and number plate recognition system 
 - License plate recognition using Tesseract OCR
 - Video frame extraction and processing
 - Real-time object detection with bounding boxes
-- Support for multiple vehicle types (cars, trucks, motorcycles, etc.)
+- Support for multiple vehicle types (cars, trucks, motorcycles, etc)
 
 ## Prerequisites
 
